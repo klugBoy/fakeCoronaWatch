@@ -1,5 +1,5 @@
 {
-  "posts": [{
+  "map": [{
                 "country" : "Algeria", 
                 "data" : {  
                     "nbPorteurs" : 650,
