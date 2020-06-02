@@ -1,38 +1,18 @@
 {
-  "map": [{
-                "country" : "Algeria", 
-                "data" : {  
-                    "nbPorteurs" : 650,
-                    "nbSuspect" : 50,
-                    "nbConfirme" : 1117,
-                    "nbDeces" : 105,
-                    "nbRetablie" : 62
-                }
-            },{
-                "country" : "Germany", 
-                "data" : {  
-                    "nbPorteurs" : 650,
-                    "nbSuspect" : 50,
-                    "nbConfirme" : 1117,
-                    "nbDeces" : 105,
-                    "nbRetablie" : 62
-                }
-            },{
-                "country" : "United Kingdom", 
-                "data" : {  
-                    "nbPorteurs" : 650,
-                    "nbSuspect" : 50,
-                    "nbConfirme" : 1117,
-                    "nbDeces" : 105,
-                    "nbRetablie" : 62
-                }
-            }
-],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "articles":[
+    {
+      "id":"01",
+      "detail": {
+        "author": {
+          "id":"01",
+          "name":"Ali"
+        },
+        "cover":"https://ibb.co/jHKncBp",
+        "title":"COVID-19",
+        "description":"I would like to make a description here",
+        "contenu":"This is the content I m doing",
+        "date":"12/12/2012"
+      }
+    }
+  ]
 }
